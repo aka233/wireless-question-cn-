@@ -12,7 +12,7 @@ pip3 install pyside6
 
 选项排列随机
 
-v20211022\).txt  1
+python3 ./wireless.py A\(v20211022\).txt  1
 
 答案永远为第一个
 
